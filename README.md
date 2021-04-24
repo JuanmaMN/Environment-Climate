@@ -106,7 +106,9 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 ### Global Annual Tree Cover Loss by Dominant Driver Percentage of total
 
 <br> 
+
 Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/main/Tree_cover_loss/Tree_cover_loss.R).
+
 <br> 
 
 <br>
