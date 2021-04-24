@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Graph -------------------------------------------------------------------
 
 plot_ly(Temperature, 
@@ -13,8 +7,8 @@ plot_ly(Temperature,
         #hoverinfo = "text",
         type="bar", 
         color=~colour , 
-        text = ~paste('Year: ', Year, '</br> Value(°C): ', Value)) %>% 
-  layout(xaxis = list(title = ""), yaxis = list(title = "anomaly(°C)"),
+        text = ~paste('Year: ', Year, '</br> Value(Â°C): ', Value)) %>% 
+  layout(xaxis = list(title = ""), yaxis = list(title = "anomaly(Â°C)"),
          font = list(
            family = "Arial",
            size = 10)
