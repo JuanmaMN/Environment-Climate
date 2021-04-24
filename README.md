@@ -18,6 +18,7 @@ The source of all datasets is from [OECD](https://www.oecd.org/).
 
 ### Air pollution exposure - 2019 - World map
 
+<br> 
 
 Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/main/Air_pollution/Air_pollution_exposure_World_Map_2019.R).
 
@@ -37,6 +38,7 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 
 ### Air pollution exposure - 2010-2019 - Countries with higher than 35 micrograms/m3
 
+<br> 
 
 Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/main/Air_pollution/Air_pollution_exposure_countries_higher_than_35.R).
 
@@ -54,6 +56,7 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 
 ### Air pollution exposure - 2010-2019 - Africa
 
+<br> 
 
 Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/main/Air_pollution/Air_pollution_Africa_2010_2019.R).
 
@@ -83,6 +86,7 @@ The source of all datasets is from [Global Forest Watch](https://www.globalfores
 
 ### Global Annual Tree Cover Loss by Dominant Driver Hectares
 
+<br> 
 
 Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/main/Tree_cover_loss/Tree_cover_loss.R).
 
@@ -101,7 +105,7 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 
 ### Global Annual Tree Cover Loss by Dominant Driver Percentage of total
 
-
+<br> 
 Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/main/Tree_cover_loss/Tree_cover_loss.R).
 <br> 
 
