@@ -117,3 +117,42 @@ Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/ma
 <img width="903" alt="World map - Air pollution" src="https://user-images.githubusercontent.com/37122520/115972597-41cac180-a547-11eb-84f4-e45a0eb029d5.png">
 </p>
 <br>
+
+
+
+<hr>
+
+# Climate
+
+
+This is a personal project where I will be publishing my analyses on Global Annual Tree Cover Loss by Dominant Driver Hectares done on R studio and Tableau.
+
+The source of all datasets is from [Global Forest Watch](https://www.globalforestwatch.org/).
+
+
+<br> 
+
+
+### Climate at a Glance - Global Temperature Anomalies - 1880 to 2021
+
+Average temperature data shows a rise in global average temperature over the past several decades year.
+
+<br> 
+
+Code is available [here](https://github.com/JuanmaMN/Environment-Climate/blob/main/Climate/Climate_at_a_Glance_Global_Temperature_anomalies.R).
+
+Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/vizhome/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021).
+
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="Climate at a Glance - Global Temperature Anomalies - 1880 to 2021" src="https://user-images.githubusercontent.com/37122520/115973063-3cbb4180-a54a-11eb-974b-599e9d771735.png">
+</p>
+<br>
+
+
+
+<hr>
