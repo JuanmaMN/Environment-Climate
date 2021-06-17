@@ -154,5 +154,21 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 <br>
 
 
-
 <hr>
+
+
+### The Plastic Waste Makers Index in 2019
+
+<br>
+
+Tableau visualization [link](https://public.tableau.com/app/profile/juanma4308/viz/MakeoverMonday2021Week22-ThePlasticWasteMakersIndex_16227357208930/The_Plastic_Waste_Makers_Index).
+
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="The_Plastic_Waste_Makers_Index" src="https://user-images.githubusercontent.com/37122520/122399221-80db2900-cf72-11eb-9070-dd2895485c1e.png">
+</p>
+<br>
