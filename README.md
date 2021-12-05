@@ -1,4 +1,4 @@
-This repository provides an overview of all my analyses on Environment, Air pollution and Climate.
+This repository provides an overview of all my analyses on Environment, Air pollution and Climate.  :ocean:
 
 Code has been uploaded as well for you to view.
 
