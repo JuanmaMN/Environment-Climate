@@ -6,7 +6,6 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 
 <br> 
 
-
 # Air pollution
 
 This is a personal project where I will be publishing my analyses on Air pollution done on R studio and Tableau.
