@@ -142,6 +142,7 @@ Code is available [here](https://github.com/JuanmaMN/Environment-Climate/blob/ma
 
 Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/vizhome/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021).
 
+Updated graph published on Twitter - 21st May 2023 - [link](https://twitter.com/Juanma_MN/status/1660228935853002752)
 
 <br> 
  
@@ -154,6 +155,8 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 
 
 <hr>
+
+
 
 
 ### The Plastic Waste Makers Index in 2019
