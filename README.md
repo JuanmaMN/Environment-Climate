@@ -30,7 +30,7 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 <br>
 
 <p align="center">
-<img width="903" alt="World map - Air pollution" src="https://user-images.githubusercontent.com/37122520/115972409-1f847400-a546-11eb-9c9e-4409b5824144.png">
+<img width="903" alt="World map - Air pollution" src="https://github.com/JuanmaMN/Environment-Climate/assets/37122520/3029b711-6668-4dc3-93b1-e4f15c44ca91">
 </p>
 <br>
 
