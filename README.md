@@ -97,9 +97,11 @@ Tableau visualization [link](https://public.tableau.com/profile/juanma4308#!/viz
 <br>
 
 <p align="center">
-<img width="903" alt="World map - Air pollution" src="https://user-images.githubusercontent.com/37122520/115972585-2e1f5b00-a547-11eb-8400-91754470b131.png">
+<img width="903" alt="World map - Air pollution" src="https://github.com/JuanmaMN/Environment-Climate/assets/37122520/137b4fca-d0dc-4b1a-99b9-58207ba2973e">
 </p>
 <br>
+
+
 
 
 ### Global Annual Tree Cover Loss by Dominant Driver Percentage of total
@@ -113,7 +115,7 @@ Code is available [here](https://github.com/JuanmaMN/Environment_Climate/blob/ma
 <br>
 
 <p align="center">
-<img width="903" alt="World map - Air pollution" src="https://user-images.githubusercontent.com/37122520/115972597-41cac180-a547-11eb-84f4-e45a0eb029d5.png">
+<img width="903" alt="World map - Air pollution" src="https://github.com/JuanmaMN/Environment-Climate/assets/37122520/e03c8034-b4f0-406d-aeb4-5c156e7567ca">
 </p>
 <br>
 
